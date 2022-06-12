@@ -6,7 +6,7 @@ var message string
   message = fmt.Sprintf("hi, %v. welcome!",name) // shortcut for declaring and intilazing {message := fmt.Sprintf("Hi, %v. Welcome!", name)}
   return message
 }
-.////.//././/././././././.././././././././
+.////.//././/././././././.././././././././././.
 package greetings
 
 import "fmt"
