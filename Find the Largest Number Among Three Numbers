@@ -12,3 +12,7 @@ func main() {
     fmt.Scanln(&third)
     /* check the boolean condition using if statement */
    
+ if (first>=second && first>=third) {
+        fmt.Println(first, "is Largest among three numbers.") /* if condition is true then print the following */
+    }
+   
