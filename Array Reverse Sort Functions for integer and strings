@@ -13,4 +13,12 @@ func main() {
 	sort.Sort(sort.Reverse(sort.IntSlice(num)))
 	fmt.Println(num)
 
+	fmt.Println()
+
+	fmt.Println("String Reverse Sort")
+	text := []string{"Japan","UK","Germany","Australia","Pakistan"}
+	sort.Sort(sort.Reverse(sort.StringSlice(text)))
+	fmt.Println(text)
 	
+}
+
