@@ -8,4 +8,4 @@ func main() {
 	fmt.Println("10 - 2 = ",10-2)   // Subtraction
 	fmt.Println("10 / 2 = ",10/2)    // Division
 	fmt.Println("10 % 2 = ",10%2)   // Remainder
-}
+}  
