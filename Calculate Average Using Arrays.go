@@ -1,7 +1,7 @@
 // Golang Program to Calculate Average Using Arrays.
 
 package main
-
+ 
 import "fmt"
 
 func main(){
